@@ -3,7 +3,16 @@ layout: home
 title: 
 date: 2020-11-20 
 ---
-### Hi, I'm Dumbarton 👋
-Dumbarton is a Jekyll Theme developed by [Tyler Butler](https://github.com/tcbutler320). The theme is designed for academics and features a simple home page with an about me section and an interactive highlights section to describe publications, coursework, courses taught, and projects. You can checkout the project on [Github](https://github.com/tcbutler320/Jekyll-Theme-Dumbarton), feel free to make contributions and feature requests and don't forget to give it a star.
 
-<a href="/contact.html" class="highlighted">Contact Me</a>
+<div class="centered-content">
+  <h1 class="name-title">Taylor Alexis Rego Domingos 👋</h1>
+  <h2 class="pronouns">(she/her/hers)</h2>
+
+  <p class="bio">
+    I am currently a second-year PhD student at Northwestern University in the Department of Sociology. I received my bachelor's degree in Sociology, Criminology, and Women and Gender Studies from the University of Toronto. I also received my masters in Sociology from University of Toronto 🇨🇦. My current research interests are plentiful but include gender and crime, policing, incarceration, and the criminal legal system.
+  </p>
+
+  <a href="/contact.html" class="highlighted">Contact Me</a>
+</div>
+
+

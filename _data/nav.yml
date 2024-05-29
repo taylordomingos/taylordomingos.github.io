@@ -4,14 +4,11 @@ links:
 - title: About
   url: about.html
 
-- title: Publications
+- title: Research
   url: publications.html
 
-- title: Blog
+- title: Teaching
   url: blog.html
 
-- title: Vitae
-  url: /assets/pdf/vitae.pdf
-
-- title: Contact
-  url: contact.html
+- title: CV
+  url: /assets/pdf/domingos_cv.pdf
